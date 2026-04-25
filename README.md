@@ -1,2 +1,3 @@
-# datasteward26_rw
-this is an example repository
+# Example repository for datasteward course in 2026
+
+This is an example repository, please ignore it!
